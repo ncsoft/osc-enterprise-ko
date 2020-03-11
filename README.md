@@ -12,7 +12,7 @@ https://www.linuxfoundation.org/compliance-and-security/2018/12/open-source-comp
 -	Shane Coughlan(Twitter: @opendawn)
 - Kate Stewart(Twitter: @_kate_stewart)
 
-### 목차
+# 목차
 
 -	Chapter 1. Introduction to open source compliance
 -	Chapter 2. Establishing an open source management program
