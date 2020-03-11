@@ -8,9 +8,12 @@
 
 https://www.linuxfoundation.org/compliance-and-security/2018/12/open-source-compliance-in-the-enterprise/ 에서 전문을 받아 보실 수 있습니다.
 
--	Ibrahim Haddad (Ph.D.) (Twitter: @IbrahimAtLinux / Web: IbrahimAtLinux.com)
--	Shane Coughlan(Twitter: @opendawn)
-- Kate Stewart(Twitter: @_kate_stewart)
+**Author** <br>
+Ibrahim Haddad (Ph.D.) (Twitter: @IbrahimAtLinux / Web: IbrahimAtLinux.com)
+
+**Contributors** <br>
+Shane Coughlan(Twitter: @opendawn)
+Kate Stewart(Twitter: @_kate_stewart)
 
 # 목차
 
