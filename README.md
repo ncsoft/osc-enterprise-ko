@@ -17,8 +17,8 @@ Kate Stewart(Twitter: @_kate_stewart)
 
 # 목차
 
--	Chapter 1. Introduction to open source compliance
--	Chapter 2. Establishing an open source management program
+-	[Chapter 1. Introduction to open source compliance](osc-enterprise-ko/chapter/Chapter 1_Introduction to open source compliance.md)
+-	[Chapter 2. Establishing an open source management program](/chapter/Chapter 2_Establishing an open source management program.md)
 -	Chapter 3. Achieving Compliance: Roles and Responsibilities
 -	Chapter 4. Open Source Compliance Process
 -	Chapter 5. Compliance Processes and Policies
