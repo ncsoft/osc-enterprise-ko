@@ -16,9 +16,10 @@ Shane Coughlan(Twitter: @opendawn)
 Kate Stewart(Twitter: @_kate_stewart)
 
 # 목차
+각 목차를 누르면 해당 페이지로 바로 이동합니다.
 
--	[Chapter 1. Introduction to open source compliance](osc-enterprise-ko/chapter/Chapter 1_Introduction to open source compliance.md)
--	[Chapter 2. Establishing an open source management program](/chapter/Chapter 2_Establishing an open source management program.md)
+-	[Chapter 1. Introduction to open source compliance](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%201_Introduction%20to%20open%20source%20compliance.md)
+-	[Chapter 2. Establishing an open source management program](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%202_Establishing%20an%20open%20source%20management%20program.md)
 -	Chapter 3. Achieving Compliance: Roles and Responsibilities
 -	Chapter 4. Open Source Compliance Process
 -	Chapter 5. Compliance Processes and Policies
