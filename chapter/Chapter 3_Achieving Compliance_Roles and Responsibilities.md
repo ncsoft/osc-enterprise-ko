@@ -70,5 +70,7 @@ written offer, 고지문 등을 작성 <br>
 소스코드 스캔 툴이나 오픈소스 검증에 필요한 인프라들을 자동화
 
 
-<center><img src="/image/chapter3/osrb-osec.png" width="400" ></center>
-<center>OSRB와 OSEC</center>
+<p align="center">
+<img src="/image/chapter3/osrb-osec.png" width="400"  style="float:"> <br>
+OSRB와 OSEC
+</p>
