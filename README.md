@@ -6,8 +6,8 @@
 
 ## 도서 및 원 저작자 소개
 <p align="center">
-<img src="/image/readme/osc-enterprise-book1.png" width="300">
-<img src="/image/readme/osc-enterprise-book2.png" width="300">
+<img src="./image/readme/osc-enterprise-book1.png" width="300">
+<img src="./image/readme/osc-enterprise-book2.png" width="300">
 </p>
 
 https://www.linuxfoundation.org/compliance-and-security/2018/12/open-source-compliance-in-the-enterprise/ 에서 전문을 받아 보실 수 있습니다.
