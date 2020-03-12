@@ -10,7 +10,7 @@
 <img src="./image/readme/osc-enterprise-book2.png" width="300">
 </p>
 
-https://www.linuxfoundation.org/compliance-and-security/2018/12/open-source-compliance-in-the-enterprise/ 에서 전문을 받아 보실 수 있습니다.
+[Linux Foundation 공식 웹 페이지](https://www.linuxfoundation.org/compliance-and-security/2018/12/open-source-compliance-in-the-enterprise/)에서 pdf 전문을 받아 보실 수 있습니다.
 
 **Author** <br>
 Ibrahim Haddad (Ph.D.) (Twitter: @IbrahimAtLinux / Web: IbrahimAtLinux.com)
