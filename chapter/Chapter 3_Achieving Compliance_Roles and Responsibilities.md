@@ -6,7 +6,7 @@
 ## Open Source Review Board(OSRB)란?
 법무, 기술, 컴플라이언스 오피스 팀으로 구성되며, 컴플라이언스 프로세스 구축 및 검증이 주요 업무
 
-#### 1. 주요 업무
+### 주요 업무
 - 상용 소프트웨어 라이선스와 오픈소스 라이선스 간 **호환성** 검토
 - 오픈소스 소프트웨어의 **효과적인 사용과 기여** 촉진
 - 의도하지 않은 소스코드 공개 이슈로부터 **지적재산권 보호**
@@ -18,7 +18,7 @@
 - 오픈소스 프로세스 및 가이드라인을 제공하기 위한 **웹 사이트 운영**
 <br>
 
-#### 2. 구성원
+### 구성원
 
 **법무 부서** <br>
 OSRB의 법무 자문을 담당하는 핵심 부서 <br>
@@ -55,7 +55,7 @@ OSRB의 법무 자문을 담당하는 핵심 부서 <br>
 ## Open Source Executive Committee(OSEC)란?
 OSRB의 확장 조직이며, 컴플라이언스 업무에 기여하는 일들을 담당
 
-#### 주요 업무
+### 주요 업무
 **문서화** <br>
 written offer, 고지문 등을 작성 <br>
 컴플라이언스 오피스 부서에서 초안을 작성하면 법무팀에서 승인, 최종 버전은 문서화 담당자가 완성
@@ -69,6 +69,6 @@ written offer, 고지문 등을 작성 <br>
 **IT** <br>
 소스코드 스캔 툴이나 오픈소스 검증에 필요한 인프라들을 자동화
 
-<img src="/image/chapter3/osrb-osec.png" width="400" align="center">
-<br>
-<center> [OSRB와 OSEC]
+
+<center><img src="/image/chapter3/osrb-osec.png" width="400" ></center>
+<center>OSRB와 OSEC</center>
