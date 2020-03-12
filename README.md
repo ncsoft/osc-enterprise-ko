@@ -3,8 +3,8 @@
 본 문서의 내용은 [Creative Commons Attribution-NonCommercial 4.0 International Public License(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) 하에 배포됩니다.
 
 # 도서 및 원 저작자 소개
-![](./image/osc-enterprise-book1.png)
-![](./image/osc-enterprise-book2.png)
+![](/image/readme/osc-enterprise-book1.png)
+![](/image/readme/osc-enterprise-book2.png)
 
 https://www.linuxfoundation.org/compliance-and-security/2018/12/open-source-compliance-in-the-enterprise/ 에서 전문을 받아 보실 수 있습니다.
 

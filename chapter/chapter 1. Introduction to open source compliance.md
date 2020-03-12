@@ -14,10 +14,10 @@
 
 **변화의 결과** <br>
 개발환경의 변화로 소스코드가 다양한 조합으로 개발
-  -	회사에서 자체 개발한 독점 코드
-  -	오픈소스를 사용하여 만든 코드 (다시 기여하지 않음)
-  -	상용 소프트웨어를 구매하여 만든 3rd Party 코드
-  -	오픈소스를 사용하기도 하고 다시 오픈소스로 공개하는 코드 등
+-	회사에서 자체 개발한 독점 코드
+-	상용 소프트웨어를 구매하여 개발한 3rd Party 코드
+-	오픈소스를 사용하여 만들었지만 다시 기여하지 않는 코드
+-	오픈소스를 사용하여 만들고 다시 오픈소스로 공개하는 코드 등
 
 > 이전에는 기업 간 계약을 통해 라이선스 협상을 했으나, 이제는 **컴플라이언스 정책과 개발 방식**으로 라이선스를 관리해야 함
 <br>
@@ -60,8 +60,13 @@
 
   > Written Offer 예시
   > ```
-  > To obtain a copy of the source code being made publicly available by FooBar, Inc. related to software used in this product, you can visit http://opensource.foobar.com or send your request in writing by email to opensource@foobar.com or by regular postal mail to:
-  > FooBar Inc. Open Source Program Office Street Address City, State, Postal Code Country
+  > To obtain a copy of the source code being made publicly available by FooBar, Inc. related
+  > to software used in this product, you can visit http://opensource.foobar.com
+  > or send your request in writing by email to
+  > opensource@foobar.com or by regular postal mail to:
+  >
+  > FooBar Inc. Open Source Program Office Street Address
+  > City, State, Postal Code Country
   > ```
 
 - Build Script를 제공하지 않을 때 (GPL, LGPL)
@@ -73,9 +78,9 @@
 #### 1. 지적재산권 이슈
 | 문제 유형 | 확인 방법 | 예방법 |
 |------|------|------|
-| <img src="/image/chapter1-opensource-1.png" width="150" align="center"> <br> 오픈소스를 독점코드에 포함시키는 경우, <br> 개발자가 오픈소스 코드 스니펫만 복사하여 붙여넣기 했을 때 | 소스코드 스캔 | - 오픈소스 컴플라이언스에 대한 심각성 알리기 <br> - 정기적인 소스코드 스캔 <br> - 오픈소스 사전 승인 의무화 |
-| <img src="/image/chapter1-opensource-2.png" width="150" align="center"> <br> 오픈소스를 독점 코드와 결합하는 경우, <br> 양립할 수 없는 라이선스를 결합시킬 때 | 디펜던시 추적 툴로 확인 | - 기업의 컴플라이언스 정책에 결합 방식을 가이드해야 함 <br> - 주기적으로 디펜던시 추적 툴로 결합방식 검증 |
-| <img src="/image/chapter1-opensource-3.png" width="150" align="center"> <br> 독점 코드를 오픈소스 코드에 포함시키는 경우, <br> 개발자가 독점 코드를 복사해서 붙여넣기 했을 때 | 소스코드 스캔 | - 사내 교육 <br> - 정기적인 소스코드 검사 <br> - 독점 코드를 포함시킬 때 사전 승인 |
+| <img src="/image/chapter1/opensource-1.png" width="150" align="center"> <br> 오픈소스를 독점코드에 포함시키는 경우, <br> 개발자가 오픈소스 코드 스니펫만 복사하여 붙여넣기 했을 때 | 소스코드 스캔 | - 오픈소스 컴플라이언스에 대한 심각성 알리기 <br> - 정기적인 소스코드 스캔 <br> - 오픈소스 사전 승인 의무화 |
+| <img src="/image/chapter1/opensource-2.png" width="150" align="center"> <br> 오픈소스를 독점 코드와 결합하는 경우, <br> 양립할 수 없는 라이선스를 결합시킬 때 | 디펜던시 추적 툴로 확인 | - 기업의 컴플라이언스 정책에 결합 방식을 가이드해야 함 <br> - 주기적으로 디펜던시 추적 툴로 결합방식 검증 |
+| <img src="/image/chapter1/opensource-3.png" width="150" align="center"> <br> 독점 코드를 오픈소스 코드에 포함시키는 경우, <br> 개발자가 독점 코드를 복사해서 붙여넣기 했을 때 | 소스코드 스캔 | - 사내 교육 <br> - 정기적인 소스코드 검사 <br> - 독점 코드를 포함시킬 때 사전 승인 |
 
 **지적재산권 이슈로 인해 발생하는 결과**
 - 제품 출시 금지
