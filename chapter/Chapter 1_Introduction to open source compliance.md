@@ -1,4 +1,4 @@
-# Chapter 1. Introduction to open source compliance
+# Chapter 1. Introduction to Open Source Compliance
 본 챕터에서는 오픈소스 컴플라이언스가 무엇인지 간단하게 소개하고, 컴플라이언스를 준수하지 않았을 때 발생할 수 있는 이슈들을 설명합니다.
 <br>
 <br>

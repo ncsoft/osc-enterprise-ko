@@ -1,4 +1,4 @@
-# Chapter 2. Establishing an open source management program
+# Chapter 2. Establishing an Open Source Management Program
 본 챕터에서는 오픈소스 컴플라이언스 프로그램의 구성 요소와 업무를 진행하면서 맞이하게 될 여러가지 도전 과제들에 대해 소개합니다.
 <br>
 <br>
