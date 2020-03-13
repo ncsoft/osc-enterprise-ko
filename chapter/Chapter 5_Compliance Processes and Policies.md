@@ -40,6 +40,7 @@
 소스코드 스캔 결과에서 생성되는 이슈들을 식별해내는 과정
 <br>
 
+
 ### 3. 법적 검토
 법률 전문가가 라이선싱 이슈를 확인하고 해결 방안을 제공하는 단계
 
@@ -64,6 +65,8 @@
 
 ### 5. 최종 리뷰
 오픈소스 사용 승인 여부를 알려주는 단계 <br> 일반적으로 대면 미팅으로 개발 부서에세 결과를 공유하며, 소프트웨어 구성요소가 승인되면 라이선스 의무사항을 작성하여 전달
+<br>
+
 
 ## 프로세스별 Input과 Output
 <p align="center">
@@ -92,3 +95,67 @@
 
 
 **오픈소스가 반려되었다면** <br> 반려 사유를 기록해야 함
+<br>
+
+
+## Incremental Compliance
+이미 검증 완료한 소프트웨어가 버전이 업그레이드될 때 진행하는 컴플라이언스 과정, 이 때 오픈소스 컴포넌트들을 BOM관리 툴로 기록하고 버전에 따른 변경사항은 BOM diff 툴로 추적 관리하는 것이 중요함
+<p align="center">
+<img src="/image/chapter5/incremental.png"> </p>
+
+
+## 소스코드 감사 프로세스
+감사 정책은 모든 소스 코드를 감사하고 준수 보고서에 감사 보고서를 첨부해야 함
+<p align="center">
+<img src="/image/chapter5/audit.png"> </p>
+
+
+## 소스코드 공개 프로세스
+이 제품에 오픈소스를 포함하고 있음과 고객이 소스코드를 희망한다면 제공받을 수 있다는 권한을 알려주는 것이며, 아래 절차가 포함되어야 함
+
+### 1.소스코드 배포 방법 결정
+- 누구나 접근할 수 있는 웹사이트로 배포
+- 특정 고객에게만 보안을 거친 후 접근할 수 있는 웹사이트로 배포
+- (GPL/LGPL의 경우) Written Offer로 공지하고 고객이 요구 시 배포
+  ```
+  Written Offer 예시
+  To obtain a copy of the source code being made publicly available by FooBar, Inc.
+  (“FooBar”) related to software used in this FooBar product (“Product”), you should
+  send your request in writing to:
+  FooBar Inc.
+  Attention: Open Source Compliance
+  Street Address
+  City, State, Postal Code Country
+  FooBar makes every possible effort to make the source code publicly available at http://opensource.foobar.com (“Website”) within reasonable business delays. Before sending your written request, please check the Website, as the source code may already be published there.
+
+  또는
+
+  To obtain a copy of the source code being made publicly available by FooBar,
+  Inc. (“FooBar”) related to software used in this FooBar product (“Product”), you
+  should send your request in writing to opensourcecompliance@foobar.com.
+  FooBar makes every possible effort to make the source code publicly available at http://opensource.foobar.com (“Website”) within reasonable business delays. Before sending your written request, please check the Website, as the source code may already be published there
+  ```
+<br>
+
+### 2. 소스코드 패키지 준비
+<br>
+
+### 3. 배포 전 체크리스트 확인
+- 변경사항을 문서화했는지 확인
+- 수정된 소스코드 파일에 저작권 고지 및 고지 의무사항이 충족되어 있는지 확인
+- 컴플라이언스 검증 부서의 기술 담당자가 소스코드 패키지 내용을 확인
+- 제품 설명서에 모든 소스코드 공개 의무사항이 포함되어 있는지 확인
+- 배포하려는 패키지가 사내 PC가 아닌 최종 사용자와 동일한 환경에서 컴파일되는지 확인
+- 웹 페이지에 소스코드 받을 수 있는 방법 안내했는지 확인
+- Written Offer에 소스코드를 제공받을 수 있는 방안에 대해 커버되는지 확인
+- 코드 리뷰 (주석에 기업 관련 정보가 들어있지는 않는지 등)
+- 라이선스 텍스트 사본이 오픈소스 패키지의 LICENSE.txt 파일로 포함되어 있는지 확인 등
+<br>
+
+### 4.	소스코드 공개
+<br>
+
+### 5. 배포 후 체크리스트 확인
+- 소스코드가 성공적으로 업로드 되었는지
+- 소스코드가 외부 컴퓨터에서 에러 없이 다운로드 되는지
+- 소스코드가 외부 컴퓨터에서 에러 없이 컴파일과 빌드도 되는지
