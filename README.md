@@ -35,5 +35,5 @@ Kate Stewart(Twitter: @_kate_stewart)
 -	[Chapter 9. Scaling Open Source Legal Support](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%209_Scaling%20Open%20Source%20Legal%20Support.md)
 -	[Chapter 10. The OpenChain Project](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%2010_The%20OpenChain%20Project.md)
 -	[Chapter 11. Software Package Data Exchange (SPDX)](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%2011_Software%20Package%20Data%20Exchange%20(SPDX).md)
--	Chapter 12. Evaluating Source Code Scanning Tools
--	Chapter 13. Open Source Audits in Merger and Acquisition Transactions
+-	[Chapter 12. Evaluating Source Code Scanning Tools](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%2012_Evaluating%20Source%20Code%20Scanning%20Tools.md)
+-	[Chapter 13. Open Source Audits in Merger and Acquisition Transactions](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%2013_Open%20Source%20Audits%20in%20Merger%20and%20Acquisition%20Transactions.md)
