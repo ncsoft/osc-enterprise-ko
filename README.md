@@ -32,8 +32,8 @@ Kate Stewart(Twitter: @_kate_stewart)
 -	[Chapter 6. Recommended Practices](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%206_Recommended%20Practices.md)
 -	[Chapter 7. Managing Compliance Inquiries](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%207_Managing%20Compliance%20Inquiries.md)
 -	[Chapter 8. Other Compliance-related Practices](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%208_Other%20Compliance-related%20Practices.md)
--	Chapter 9. Scaling Open Source Legal Support
--	Chapter 10. The OpenChain Project
+-	[Chapter 9. Scaling Open Source Legal Support](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%209_Scaling%20Open%20Source%20Legal%20Support.md)
+-	[Chapter 10. The OpenChain Project](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%2010_The%20OpenChain%20Project.md)
 -	Chapter 11. Software Package Data Exchange (SPDX)
 -	Chapter 12. Evaluating Source Code Scanning Tools
 -	Chapter 13. Open Source Audits in Merger and Acquisition Transactions

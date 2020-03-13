@@ -4,7 +4,7 @@
 <br>
 
 ## 비즈니스 관점에서의 컴플라이언스
-많은 회사들이 오픈소스 사용을 지지하지만, 오픈소스 라이선스를 준수하는 것은 어려워함 <br> 대부분의 컴플라이언스 이슈는 여러 소프트웨어와 하드웨어가 결합되면서 생기는데, 공급망을 모두 추적하기가 힘들어짐
+많은 회사들이 오픈소스 사용을 지지하지만, 오픈소스 라이선스를 준수하는 것은 어려워 함 <br> 대부분의 컴플라이언스 이슈는 여러 소프트웨어와 하드웨어가 결합되면서 생기는데, 공급망을 모두 추적하기가 힘들어짐
 <br>
 기업이 가지고 있는 도메인 지식과, 오픈소스를 개발에 얼마나 활용하는지에 따라 오픈소스 컴플라이언스는 도전이 될 수 있음
 
@@ -14,7 +14,7 @@
 이러한 환경에서 작은 실수가 발생하면 컴플라이언스 문제로 이어진다.
 
 이러한 문제를 해결하려면 공급망에서 오픈소스 컴플라이언스 문제를 해결해야 하지만,
-공급망은 보통 전세계 여러 기업에 걸쳐 있기 때문에 추적하기 어려운 상황이 많음
+공급망은 보통 전세계 여러 기업에 걸쳐 있기 때문에 추적하기 어려운 상황이 많다.
 ```
 
 <br>
@@ -65,9 +65,10 @@ To ensure steps are taken to create, record and make Software Staff aware of the
 
 각 섹션에는 요구사항을 충족했음을 보장하기 위한 검증 자료 및 근거들이 수반되어야 함
 <br>
+<br>
 
 ### 2. 주요 프로세스에 대한 적합성 검증 방법
-Specification은 핵심 요구사항을 설명하고 준수되었는지 확인하는 기준을 제공하지만, 그 자체만으로는 완전한 해결책이 되지 못함 <br> 온라인에서 제공하는 자체 인증 설문지를 통해 적합성을 검토해야 함
+Specification은 핵심 요구사항을 설명하고 준수되었는지 확인하는 기준을 제공하지만, 그 자체만으로는 완전한 해결책이 되지 못함. <br> 온라인에서 제공하는 자체 인증 설문지를 통해 적합성을 검토해야 함
 
 (예시)
 ```
@@ -80,7 +81,7 @@ Supplied Software distribution?
 1.f: Do you make your software staff aware of the existence of the FOSS policy using at least one of the following methods?
 ```
 
- > 위 대답들에 대해 YES라고 대답할 수 있다면,  OpenChain Specification을 준수할 수 있다고 할 수 있다.
+ > 위 대답들에 대해 YES라고 대답할 수 있다면,  OpenChain Specification을 준수하고 있다고 할 수 있다.
 
 - 온라인 적합성 검토 링크: https://www.openchainproject.org/conformance
 <br>
@@ -100,15 +101,15 @@ Supplied Software distribution?
 8. Developer Guidelines
 ```
 
-- 커리큘럼 링크: https://www.openchainproject.org/curriculum (Curriculum 자료는 가능한한 많이 활용될 수 있도록 CC-0 라이선스 하에 배포되고 있음)
+- 커리큘럼 링크: https://www.openchainproject.org/curriculum (Curriculum 자료는 널리 활용될 수 있도록 CC-0 라이선스 하에 배포되고 있음)
 <br>
 
 
 ## 여러 분야에서의 채택 장려
 OpenChain Project는 다양한 시장 분야에서 오픈소스 컴플라이언스를 일관적으로 준수하기 위해 여러가지의 접근 방식을 고려하고 있음
-- 14개 플래티넘 회원들이 OpenChain Project를 지원하고 있음 (Adobe, ARM, Cisco, Comcast, GitHub, Harman, Hitachi, Qualcomm, Siemens, Sony, Toyota, Western Digital, Wind River)
-- 메일링 리스트를 통해 아이디어를 공유하고, 조직간 신뢰를 쌓고 있음
-- OpenChain Specification은 온라인 또는 오프라인으로 Conformance 양식을 제출 받고 있음
+- 14개 플래티넘 회원들이 OpenChain Project를 지원(Adobe, ARM, Cisco, Comcast, GitHub, Harman, Hitachi, Qualcomm, Siemens, Sony, Toyota, Western Digital, Wind River)
+- 메일링 리스트를 통해 아이디어를 공유하고, 조직간 신뢰 구축
+- 온라인 또는 오프라인으로 Conformance 양식 제공
 
 > OpenChain Project Quick Start Quide 링크: https://www.openchainproject.org/quick-start
 <br>
@@ -117,6 +118,6 @@ OpenChain Project는 다양한 시장 분야에서 오픈소스 컴플라이언�
 - 메일링 리스트에 참여하기
 -	매월 진행되는 컨퍼런스 콜이나 정기 회의에 참석하기
 
-> 오픈소스에 관련된 프로젝트인만큼 OpenChain Project의 진입 장벽이 높지 않으므로 OpenChain Project 메일링 리스트에 가입하여 많은 커뮤니티에 참여해보는 것을 권함
+> 오픈소스에 관련된 프로젝트인만큼 OpenChain Project의 진입 장벽이 높지 않으므로 OpenChain Project 메일링 리스트에 가입하여 많은 커뮤니티에 참여해보는 것을 권한다.
 
 - OpenChain Project Community 링크: https://www.openchainproject.org/community
