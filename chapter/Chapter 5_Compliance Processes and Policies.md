@@ -44,9 +44,9 @@
 ### 3. 법적 검토
 법률 전문가가 라이선싱 이슈를 확인하고 해결 방안을 제공하는 단계
 
-**라이선싱 이슈가 없다면** <br> 소프트웨어의 라이선스를 결정하고 다음 단계로 넘어가기 <br>
+**라이선싱 이슈가 없다면**: 소프트웨어의 라이선스를 결정하고 다음 단계로 넘어감 <br>
 
-**라이선싱 이슈가 있다면** <br> 코드 재 작업을 위해 개발부서에 통보해야 함
+**라이선싱 이슈가 있다면**: 코드 재 작업을 위해 개발부서에 통보해야 함
 
 > 라이선스를 정확히 식별할 수 없거나 판단할 수 있는 정보가 없는 경우, 해당 개발 부서에 문의하여 라이선스 확인을 받아야 함
 <br>
@@ -64,7 +64,10 @@
 
 
 ### 5. 최종 리뷰
-오픈소스 사용 승인 여부를 알려주는 단계 <br> 일반적으로 대면 미팅으로 개발 부서에세 결과를 공유하며, 소프트웨어 구성요소가 승인되면 라이선스 의무사항을 작성하여 전달
+오픈소스 사용 승인 여부를 알려주는 단계 <br> 소프트웨어 구성요소가 승인되면 라이선스 의무사항을 작성하여 전달
+
+> 일반적으로 대면 미팅을 통해 결과를 전달한다.
+
 <br>
 <br>
 
@@ -126,18 +129,23 @@
   Attention: Open Source Compliance
   Street Address
   City, State, Postal Code Country
-  FooBar makes every possible effort to make the source code publicly available at http://opensource.foobar.com (“Website”) within reasonable business delays. Before sending your written request, please check the Website, as the source code may already be published there.
+  FooBar makes every possible effort to make the source code publicly
+  available at http://opensource.foobar.com (“Website”) within reasonable business delays.
+  Before sending your written request, please check the Website, as the source code may already be published there.
 
   또는
 
   To obtain a copy of the source code being made publicly available by FooBar,
   Inc. (“FooBar”) related to software used in this FooBar product (“Product”), you
   should send your request in writing to opensourcecompliance@foobar.com.
-  FooBar makes every possible effort to make the source code publicly available at http://opensource.foobar.com (“Website”) within reasonable business delays. Before sending your written request, please check the Website, as the source code may already be published there
+  FooBar makes every possible effort to make the source code publicly
+  available at http://opensource.foobar.com (“Website”) within reasonable business delays.
+  Before sending your written request, please check the Website, as the source code may already be published there
   ```
 <br>
 
 ### 2. 소스코드 패키지 준비
+공개할 버전의 소스코드 패키지 준비
 <br>
 
 ### 3. 배포 전 체크리스트 확인
@@ -153,6 +161,7 @@
 <br>
 
 ### 4. 소스코드 공개
+외부 공개용 웹사이트를 통해 소스코드 배포
 <br>
 
 ### 5. 배포 후 체크리스트 확인
