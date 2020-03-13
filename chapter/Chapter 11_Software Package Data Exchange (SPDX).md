@@ -44,6 +44,7 @@ SPDX Specification은 SPDX Document를 만들기 위해 필수적인 필드들�
 </p>
 
 - Document Creation Information <br> 버전 넘버, 라이선스, 저작권 등 툴로 처리하기 위해 필요한 정보들을 표시 (각 SPDX 파일에 하나의 인스턴스는 반드시 필요함) <br>
+<br>
   (예시)
   ```
   SPDXVersion: SPDX-2.1
@@ -58,78 +59,83 @@ SPDX Specification은 SPDX Document를 만들기 위해 필수적인 필드들�
   ```
 
 -	Package Information <br> 제품, 컨테이너, 구성요소, 업스트림 프로젝트, *.tar 파일의 내용 등 패키지 정보 기입 <br>
-  (예시)
-  ```
-  PackageName: GNU Time
-  SPDXID: SPDXRef-1
-  PackageVersion: 1.7
-  PackageFileName: time-1.7.tar.gz
-  PackageSupplier: Organization: GNU
-  PackageOriginator: Organization: GNU
-  PackageDownloadLocation: ftp://ftp.gnu.org/gnu/time/
-  PackageVerificationCode: dd5cf0b17bfef4284c6c22471b277de7beac407c
-  PackageChecksum: SHA1: dde0c28c7426960736933f3e763320680356cc6a
-  PackageLicenseConcluded: GPL-2.0+
-  PackageLicenseInfoFromFiles: GPL-2.0+
-  PackageLicenseInfoFromFiles: MIT
-  PackageLicenseInfoFromFiles: GPL-2.0
-  PackageLicenseDeclared: GPL-2.0+
-  PackageCopyrightText: <text>Copyright (C) 1990, 91, 92, 93, 96 Free Software Foundation, Inc.</text>
-  PackageSummary: <text>The ‘time’ command runs another program,
-  then displays information about the resources used by that program, collected by the system while the program was running.</text>
-  PackageDescription: <text>The ‘time’ command runs another program,
-  then displays information about the resources used by that program,
-  collected by the system while the program was running.
-  You can select which information is reported and the format in which it is shown,
-  or have `time’ save the information in a file instead of displaying it on the screen.</text>
-  ```
+<br>
+    (예시)
+    ```
+    PackageName: GNU Time
+    SPDXID: SPDXRef-1
+    PackageVersion: 1.7
+    PackageFileName: time-1.7.tar.gz
+    PackageSupplier: Organization: GNU
+    PackageOriginator: Organization: GNU
+    PackageDownloadLocation: ftp://ftp.gnu.org/gnu/time/
+    PackageVerificationCode: dd5cf0b17bfef4284c6c22471b277de7beac407c
+    PackageChecksum: SHA1: dde0c28c7426960736933f3e763320680356cc6a
+    PackageLicenseConcluded: GPL-2.0+
+    PackageLicenseInfoFromFiles: GPL-2.0+
+    PackageLicenseInfoFromFiles: MIT
+    PackageLicenseInfoFromFiles: GPL-2.0
+    PackageLicenseDeclared: GPL-2.0+
+    PackageCopyrightText: <text>Copyright (C) 1990, 91, 92, 93, 96 Free Software Foundation, Inc.</text>
+    PackageSummary: <text>The ‘time’ command runs another program,
+    then displays information about the resources used by that program, collected by the system while the program was running.</text>
+    PackageDescription: <text>The ‘time’ command runs another program,
+    then displays information about the resources used by that program,
+    collected by the system while the program was running.
+    You can select which information is reported and the format in which it is shown,
+    or have `time’ save the information in a file instead of displaying it on the screen.</text>
+    ```
 
 -	File Information <br> 파일 이름, 라이선스, 저작권 등을 포함한 파일의 메타 데이터 기입 <br>
-  (예시)
-  ```
-  FileName: ./time.c
-  SPDXID: SPDXRef-4
-  FileType: SOURCE
-  FileChecksum: SHA1: 712d7f9dfde674283596ae2088550e3ff23ae1ba
-  LicenseConcluded: GPL-2.0+
-  LicenseInfoInFile: NOASSERTION
-  FileCopyrightText: <text>Copyright Free Software Foundation, Inc</text>
-  ```
+<br>
+    (예시)
+    ```
+    FileName: ./time.c
+    SPDXID: SPDXRef-4
+    FileType: SOURCE
+    FileChecksum: SHA1: 712d7f9dfde674283596ae2088550e3ff23ae1ba
+    LicenseConcluded: GPL-2.0+
+    LicenseInfoInFile: NOASSERTION
+    FileCopyrightText: <text>Copyright Free Software Foundation, Inc</text>
+    ```
 
 - Snippet Information <br> 다른 원본 소스코드에서 가져온 스니펫인 경우 기입 <br>
+<br>
 
-(예시)
-```
-SnippetSPDXID: SPDXRef-5
-SnippetFromFileSPDXID: SPDXRef-2
-SnippetByteRange: 889:9002
-SnippetLineRange: 24:245
-SnippetLicenseConcluded: Apache-2.0
-LicenseInfoInSnippet: BSD-2-Clause-FreeBSD
-SnippetCopyrightText: <text>Copyright 2001-2016 The Apache Software Foundation</text>
-SnippetComment: <text> This snippet should have a related package with an external referenced,
-however, the maven-plugin only supports external references for the main package </text>
-SnippetName: Apache Commons Math v. 3.6.1
-```
+  (예시)
+  ```
+  SnippetSPDXID: SPDXRef-5
+  SnippetFromFileSPDXID: SPDXRef-2
+  SnippetByteRange: 889:9002
+  SnippetLineRange: 24:245
+  SnippetLicenseConcluded: Apache-2.0
+  LicenseInfoInSnippet: BSD-2-Clause-FreeBSD
+  SnippetCopyrightText: <text>Copyright 2001-2016 The Apache Software Foundation</text>
+  SnippetComment: <text> This snippet should have a related package with an external referenced,
+  however, the maven-plugin only supports external references for the main package </text>
+  SnippetName: Apache Commons Math v. 3.6.1
+  ```
 
 -	Information <br> 기타 정보 기입 <br>
-(예시)
-```
-LicenseID: LicenseRef-FaustProprietary
-ExtractedText: <text>FAUST, INC. PROPRIETARY LICENSE:
-FAUST, INC. grants you a non-exclusive right to use, modify, and distribute the file provided that (a) you distribute all copies and/or modifications of this file, whether in source or binary form, under the same license, and (b) you hereby irrevocably transfer and assign the ownership of your soul to Faust, Inc. In the event the fair market value of your soul is
-less than $100 US, you agree to compensate Faust, Inc. for the difference. Copyright (C) 2016 Faust Inc. All, and I mean ALL, rights are reserved.</text>
-LicenseName: Faust (really) Proprietary License
-LicenseComment: <text>This license was extracted from the file
-InsufficientKarmaException</text>
-```
+<br>
+    (예시)
+    ```
+    LicenseID: LicenseRef-FaustProprietary
+    ExtractedText: <text>FAUST, INC. PROPRIETARY LICENSE:
+    FAUST, INC. grants you a non-exclusive right to use, modify, and distribute the file provided that (a) you distribute all copies and/or modifications of this file, whether in source or binary form, under the same license, and (b) you hereby irrevocably transfer and assign the ownership of your soul to Faust, Inc. In the event the fair market value of your soul is
+    less than $100 US, you agree to compensate Faust, Inc. for the difference. Copyright (C) 2016 Faust Inc. All, and I mean ALL, rights are reserved.</text>
+    LicenseName: Faust (really) Proprietary License
+    LicenseComment: <text>This license was extracted from the file
+    InsufficientKarmaException</text>
+    ```
 
 - Relationships <br> SPDX 문서와 패키지 정보, 파일 정보 간 관계를 설명 <br>
-(예시)
-```
-Relationship: SPDXRef-2 PREREQUISITE_FOR SPDXRef-1
-RelationshipComment: <text>The package foo.tgz is a pre-requisite for building the executable bar.</text>
-```
+<br>
+    (예시)
+    ```
+    Relationship: SPDXRef-2 PREREQUISITE_FOR SPDXRef-1
+    RelationshipComment: <text>The package foo.tgz is a pre-requisite for building the executable bar.</text>
+    ```
 <br>
 
 ### 5. SPDX 문서를 생성할 수 있는 툴들
