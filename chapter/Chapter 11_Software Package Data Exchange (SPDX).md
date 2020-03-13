@@ -43,8 +43,8 @@ SPDX Specification은 SPDX Document를 만들기 위해 필수적인 필드들�
 <img src="/image/chapter11/spdx-docu.png">
 </p>
 
-- Document Creation Information <br> 버전 넘버, 라이선스, 저작권 등 툴로 처리하기 위해 필요한 정보들을 표시 (각 SPDX 파일에 하나의 인스턴스는 반드시 필요함) <br>
-<br>
+- Document Creation Information <br> 버전 넘버, 라이선스, 저작권 등 툴로 처리하기 위해 필요한 정보들을 표시 (각 SPDX 파일에 하나의 인스턴스는 반드시 필요함)
+
   (예시)
   ```
   SPDXVersion: SPDX-2.1
@@ -58,8 +58,8 @@ SPDX Specification은 SPDX Document를 만들기 위해 필수적인 필드들�
   Created: 2018-09-26T11:44:51Z
   ```
 
--	Package Information <br> 제품, 컨테이너, 구성요소, 업스트림 프로젝트, *.tar 파일의 내용 등 패키지 정보 기입 <br>
-<br>
+-	Package Information <br> 제품, 컨테이너, 구성요소, 업스트림 프로젝트, *.tar 파일의 내용 등 패키지 정보 기입
+
     (예시)
     ```
     PackageName: GNU Time
@@ -86,8 +86,8 @@ SPDX Specification은 SPDX Document를 만들기 위해 필수적인 필드들�
     or have `time’ save the information in a file instead of displaying it on the screen.</text>
     ```
 
--	File Information <br> 파일 이름, 라이선스, 저작권 등을 포함한 파일의 메타 데이터 기입 <br>
-<br>
+-	File Information <br> 파일 이름, 라이선스, 저작권 등을 포함한 파일의 메타 데이터 기입
+
     (예시)
     ```
     FileName: ./time.c
@@ -99,8 +99,8 @@ SPDX Specification은 SPDX Document를 만들기 위해 필수적인 필드들�
     FileCopyrightText: <text>Copyright Free Software Foundation, Inc</text>
     ```
 
-- Snippet Information <br> 다른 원본 소스코드에서 가져온 스니펫인 경우 기입 <br>
-<br>
+- Snippet Information <br> 다른 원본 소스코드에서 가져온 스니펫인 경우 기입
+
 
   (예시)
   ```
@@ -116,8 +116,8 @@ SPDX Specification은 SPDX Document를 만들기 위해 필수적인 필드들�
   SnippetName: Apache Commons Math v. 3.6.1
   ```
 
--	Information <br> 기타 정보 기입 <br>
-<br>
+-	Information <br> 기타 정보 기입
+
     (예시)
     ```
     LicenseID: LicenseRef-FaustProprietary
@@ -129,8 +129,8 @@ SPDX Specification은 SPDX Document를 만들기 위해 필수적인 필드들�
     InsufficientKarmaException</text>
     ```
 
-- Relationships <br> SPDX 문서와 패키지 정보, 파일 정보 간 관계를 설명 <br>
-<br>
+- Relationships <br> SPDX 문서와 패키지 정보, 파일 정보 간 관계를 설명
+
     (예시)
     ```
     Relationship: SPDXRef-2 PREREQUISITE_FOR SPDXRef-1
