@@ -1,5 +1,5 @@
 # Chapter 6. Recommended Practices
-본 챕터에서는 오픈소스 컴플라이언스의 각 절차마다 권장해야 하는 사례와 컴플라이언스에 필요한 툴들을 소개합니다.
+본 챕터에서는 오픈소스 컴플라이언스의 각 절차마다 권장하는 사례와 컴플라이언스에 필요한 툴들을 소개합니다.
 <br>
 <br>
 
@@ -40,7 +40,7 @@
 <br>
 
 <p align="center">
-<img src="/image/chapter6/Process.png"> <br> [오픈소스 컴플라이언스 프로세스]
+<img src="/image/chapter6/process.png"> <br> [오픈소스 컴플라이언스 프로세스]
 </p>
 
 
@@ -57,6 +57,7 @@
 -	Rogue Wave Software (https://www.roguewave.com/)
 -	WhiteSource Software (https://www.whitesourcesoftware.com/)
 <br>
+
 **오픈소스 툴**
 - Binary Analysis Tool (http://www.binaryanalysis.org/)
 -	FOSSology (https://www.fossology.org/)
@@ -71,7 +72,7 @@
 ### 3. BOM 관리 툴
 두 가지 BOM을 비교하여 버전 관리하는 데에 사용하는 툴
 
-> 이 툴은 제조업에서는 보편적으로 사용하지만, 오픈소스 관리 측면에서는 많이 사용되지 않는다. 존재하는 툴들을 활용하여 자체적으로 개발하는 것을 권장한다.
+> 이 툴은 제조업에서는 보편적으로 사용하지만, 오픈소스 관리 측면에서는 많이 사용되지 않는다. <br> 시중에 나와있는 툴들을 활용하여 자체적으로 개발하는 것을 권장한다.
 <br>
 
 ### 4. 결합 방식 분석 툴
