@@ -28,8 +28,8 @@ Kate Stewart(Twitter: @_kate_stewart)
 -	[Chapter 2. Establishing an Open Source Management Program](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%202_Establishing%20an%20open%20source%20management%20program.md)
 -	[Chapter 3. Achieving Compliance: Roles and Responsibilities](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%203_Achieving%20Compliance_Roles%20and%20Responsibilities.md)
 -	[Chapter 4. Open Source Compliance Process](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%204_Open%20Source%20Compliance%20Process.md)
--	Chapter 5. Compliance Processes and Policies
--	Chapter 6. Recommended practices
+-	[Chapter 5. Compliance Processes and Policies](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%205_Compliance%20Processes%20and%20Policies.md)
+-	Chapter 6. Recommended Practices
 -	Chapter 7. Managing Compliance Inquiries
 -	Chapter 8. Other Compliance-related Practices
 -	Chapter 9. Scaling Open Source Legal Support
