@@ -30,8 +30,8 @@ Kate Stewart(Twitter: @_kate_stewart)
 -	[Chapter 4. Open Source Compliance Process](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%204_Open%20Source%20Compliance%20Process.md)
 -	[Chapter 5. Compliance Processes and Policies](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%205_Compliance%20Processes%20and%20Policies.md)
 -	[Chapter 6. Recommended Practices](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%206_Recommended%20Practices.md)
--	Chapter 7. Managing Compliance Inquiries
--	Chapter 8. Other Compliance-related Practices
+-	[Chapter 7. Managing Compliance Inquiries](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%207_Managing%20Compliance%20Inquiries.md)
+-	[Chapter 8. Other Compliance-related Practices](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%208_Other%20Compliance-related%20Practices.md)
 -	Chapter 9. Scaling Open Source Legal Support
 -	Chapter 10. The OpenChain Project
 -	Chapter 11. Software Package Data Exchange (SPDX)
