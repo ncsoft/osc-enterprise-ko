@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Chapter"
+    url: /chapter/
+  - title: "Reference"
+    url: /reference/
