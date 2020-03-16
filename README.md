@@ -24,7 +24,7 @@ Kate Stewart(Twitter: @_kate_stewart)
 ## 목차
 각 목차를 누르면 해당 페이지로 바로 이동합니다.
 
--	[Chapter 1. Introduction to Open Source Compliance](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%201_Introduction%20to%20open%20source%20compliance.md)
+-	[Chapter 1. Introduction to Open Source Compliance](/_posts/2020-03-16-chapter-1.md/)
 -	[Chapter 2. Establishing an Open Source Management Program](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%202_Establishing%20an%20open%20source%20management%20program.md)
 -	[Chapter 3. Achieving Compliance: Roles and Responsibilities](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%203_Achieving%20Compliance_Roles%20and%20Responsibilities.md)
 -	[Chapter 4. Open Source Compliance Process](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%204_Open%20Source%20Compliance%20Process.md)

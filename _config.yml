@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Korean Summary of Open Source Compliance in the Enterprise(2nd Edition)"
+title                    : "Open Source Compliance in the Enterprise(2nd Edition)의 한글 번역본 <br> Korean Summary of Open Source Compliance in the Enterprise(2nd Edition)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "한다솜 Han Dasom"

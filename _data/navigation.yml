@@ -2,7 +2,33 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Chapter"
-    url: /chapter/
+  - title: "Chapters"
+        children:
+          - title: "Chapter 1"
+            url: /docs/chapter1/
+          - title: "Chapter 2"
+            url: /docs/chater2/
+          - title: "Chapter 3"
+            url: /docs/chapter3/
+          - title: "Chapter 4"
+            url: /docs/chater4/
+          - title: "Chapter 5"
+            url: /docs/chapter5/
+          - title: "Chapter 6"
+            url: /docs/chater6/
+          - title: "Chapter 7"
+            url: /docs/chapter1/
+          - title: "Chapter 8"
+            url: /docs/chater8/
+          - title: "Chapter 9"
+            url: /docs/chater9/
+          - title: "Chapter 10"
+            url: /docs/chapter10/
+          - title: "Chapter 11"
+            url: /docs/chater11/
+          - title: "Chapter 12"
+            url: /docs/chapter12/
+          - title: "Chapter 13"
+            url: /docs/chater13/
   - title: "Reference"
     url: /reference/
