@@ -24,11 +24,11 @@ Kate Stewart(Twitter: @_kate_stewart)
 ## 목차
 각 목차를 누르면 해당 페이지로 바로 이동합니다.
 
--	[Chapter 1. Introduction to Open Source Compliance](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%201_Introduction%20to%20open%20source%20compliance.md)
--	[Chapter 2. Establishing an Open Source Management Program](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%202_Establishing%20an%20open%20source%20management%20program.md)
--	[Chapter 3. Achieving Compliance: Roles and Responsibilities](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%203_Achieving%20Compliance_Roles%20and%20Responsibilities.md)
--	[Chapter 4. Open Source Compliance Process](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%204_Open%20Source%20Compliance%20Process.md)
--	[Chapter 5. Compliance Processes and Policies](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%205_Compliance%20Processes%20and%20Policies.md)
+-	[Chapter 1. Introduction to Open Source Compliance](https://github.com/ncsoft/osc-enterprise-ko/blob/master/docs/Chapter%201_Introduction%20to%20open%20source%20compliance.md)
+-	[Chapter 2. Establishing an Open Source Management Program](https://github.com/ncsoft/osc-enterprise-ko/blob/master/docs/Chapter%202_Establishing%20an%20open%20source%20management%20program.md)
+-	[Chapter 3. Achieving Compliance: Roles and Responsibilities](https://github.com/ncsoft/osc-enterprise-ko/blob/master/docs/Chapter%203_Achieving%20Compliance_Roles%20and%20Responsibilities.md)
+-	[Chapter 4. Open Source Compliance Process](https://github.com/ncsoft/osc-enterprise-ko/blob/master/docs/Chapter%204_Open%20Source%20Compliance%20Process.md)
+-	[Chapter 5. Compliance Processes and Policies](https://github.com/ncsoft/osc-enterprise-ko/blob/master/docs/Chapter%205_Compliance%20Processes%20and%20Policies.md)
 -	[Chapter 6. Recommended Practices](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%206_Recommended%20Practices.md)
 -	[Chapter 7. Managing Compliance Inquiries](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%207_Managing%20Compliance%20Inquiries.md)
 -	[Chapter 8. Other Compliance-related Practices](https://github.com/ncsoft/osc-enterprise-ko/blob/master/chapter/Chapter%208_Other%20Compliance-related%20Practices.md)
