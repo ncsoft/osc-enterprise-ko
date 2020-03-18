@@ -82,7 +82,7 @@
 -	본인의 소스코드에 어떤 오픈소스가 포함되어 있는지 알아야 함
 -	컴플라이언스에 적극적으로 참여해야 함
 - 오픈소스를 보안취약점이 개선된 최신 소프트웨어 버전을 사용해야 함
-- [OpenChain Conformant 웹 사이트](www.openchainproject.org/conformance)에서 현재의 컴플라이언스 준수 상태를 체크하는 것을 권장함
+- [OpenChain Conformant 웹 사이트](https://www.openchainproject.org/conformance)에서 현재의 컴플라이언스 준수 상태를 체크하는 것을 권장함
 <br>
 
 ### 8. 인수 회사에서의 감사 준비
