@@ -16,11 +16,11 @@
 Ibrahim Haddad (Ph.D.) (Twitter: @IbrahimAtLinux / Web: IbrahimAtLinux.com)
 
 **Contributors** <br>
-Shane Coughlan(Twitter: @opendawn)
+Shane Coughlan(Twitter: @opendawn) <br>
 Kate Stewart(Twitter: @_kate_stewart)
 
 **Translators** <br>
-한다솜(dasomhan)
+한다솜(dasomhan) <br>
 한지호(PeterHanJiho)
 <br>
 
