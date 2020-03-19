@@ -20,8 +20,9 @@ Shane Coughlan(Twitter: @opendawn) <br>
 Kate Stewart(Twitter: @_kate_stewart)
 
 **Translators** <br>
-한다솜(dasomhan) <br>
-한지호(PeterHanJiho)
+한다솜([dasomhan](https://github.com/dasomhan)) <br>
+한지호([PeterHanJiho](https://github.com/PeterHanJiho))
+<br>
 <br>
 
 
