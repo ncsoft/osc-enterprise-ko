@@ -42,3 +42,7 @@ Kate Stewart(Twitter: @_kate_stewart)
 -	[Chapter 11. Software Package Data Exchange (SPDX)](https://github.com/ncsoft/osc-enterprise-ko/blob/master/docs/Chapter%2011_Software%20Package%20Data%20Exchange%20(SPDX).md)
 -	[Chapter 12. Evaluating Source Code Scanning Tools](https://github.com/ncsoft/osc-enterprise-ko/blob/master/docs/Chapter%2012_Evaluating%20Source%20Code%20Scanning%20Tools.md)
 -	[Chapter 13. Open Source Audits in Merger and Acquisition Transactions](https://github.com/ncsoft/osc-enterprise-ko/blob/master/docs/Chapter%2013_Open%20Source%20Audits%20in%20Merger%20and%20Acquisition%20Transactions.md)
+
+## OpenChain Korea Work Group
+[![](./image/readme/logo_kwg.png)](https://openchain-project.github.io/OpenChain-KWG/)
+- osc enterprise ko : https://openchain-project.github.io/OpenChain-KWG/resource/enterprise/
