@@ -1,6 +1,6 @@
 ## About
 본 문서는 Open Source Compliance In The Enterprise(2nd Edition, 2018)의 한글 요약본이며, 원저작자로부터 허가를 받아 작성 및 배포하였습니다.
-본 문서의 내용은 [Creative Commons Attribution-NonCommercial 4.0 International Public License(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) 하에 배포됩니다.
+본 문서의 내용은 [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en) 하에 배포됩니다.
 <br>
 
 
