@@ -45,4 +45,4 @@ Kate Stewart(Twitter: @_kate_stewart)
 
 ## OpenChain Korea Work Group
 [![](./image/readme/logo_kwg.png)](https://openchain-project.github.io/OpenChain-KWG/)
-- osc enterprise ko : https://openchain-project.github.io/OpenChain-KWG/resource/enterprise/
+- osc enterprise ko : https://openchain-project.github.io/OpenChain-KWG/blog/2020/20201123-ncsoft-compliance-book/
